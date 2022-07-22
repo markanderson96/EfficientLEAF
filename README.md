@@ -4,7 +4,7 @@ This is a fork of the original repo by Jan Schlüter and Gerald Gutenbrunner. Th
 
 I have included the parts of the readme from the original repo that pertain to the frontend itself. [`efficientleaf.py`](efficientleaf.py) contains the dependencies from the original repo's `leaf.py` and as such, should be complete.
 
-From her on in the README you are in Jan and Gerald's hands!
+From here on in the README you are in Jan and Gerald's hands!
 
 # EfficientLEAF: A Faster LEarnable Audio Frontend of Questionable Use
 - Authors: Jan Schlüter, Gerald Gutenbrunner
